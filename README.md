@@ -3,9 +3,9 @@ Click Releases to download
 
 only for Windows
 # Linux: 
-https://github.com/Fouks0/stk-code/releases/
+https://github.com/Fouks0/stk-code/releases/  *this link is SuperTuxKart 1.0*
 
-
+--
 
 
 ## Hardware Requirements
